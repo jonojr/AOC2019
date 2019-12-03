@@ -9,7 +9,7 @@ Fair warning, none of these solutions are good, just working at the time of writ
 | ----- | ------------------ | ------------------ |
 | 1     | :heavy_check_mark: | :heavy_check_mark: |
 | 2     | :heavy_check_mark: | :heavy_check_mark: |
-| 3     | :question:         |  :question:        |
+| 3     | :heavy_check_mark: | :heavy_check_mark: |
 | 4     | :question:         |  :question:        |
 | 5     | :question:         |  :question:        |
 | 6     | :question:         |  :question:        |
