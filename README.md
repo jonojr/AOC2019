@@ -20,7 +20,7 @@ Fair warning, none of these solutions are good, just working at the time of writ
 | 11    | :heavy_check_mark: | :heavy_check_mark: |
 | 12    | :heavy_check_mark: | :heavy_check_mark: |
 | 13    | :heavy_check_mark: | :heavy_check_mark: |
-| 14    | :question:         |  :question:        |
+| 14    | :heavy_check_mark: | :heavy_check_mark: |
 | 15    | :question:         |  :question:        |
 | 16    | :question:         |  :question:        |
 | 17    | :question:         |  :question:        |
