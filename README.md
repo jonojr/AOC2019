@@ -21,7 +21,7 @@ Fair warning, none of these solutions are good, just working at the time of writ
 | 12    | :heavy_check_mark: | :heavy_check_mark: |
 | 13    | :heavy_check_mark: | :heavy_check_mark: |
 | 14    | :heavy_check_mark: | :heavy_check_mark: |
-| 15    | :question:         |  :question:        |
+| 15    | :heavy_check_mark: | :heavy_check_mark: |
 | 16    | :question:         |  :question:        |
 | 17    | :question:         |  :question:        |
 | 18    | :question:         |  :question:        |
