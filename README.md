@@ -29,6 +29,6 @@ Fair warning, none of these solutions are good, just working at the time of writ
 | 20    | :question:         |  :question:        |
 | 21    | :question:         |  :question:        |
 | 22    | :question:         |  :question:        |
-| 23    | :question:         |  :question:        |
+| 23    | :heavy_check_mark: | :heavy_check_mark: |
 | 24    | :question:         |  :question:        |
 | 25    | :question:         |  :question:        |
